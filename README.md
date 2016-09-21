@@ -1,1 +1,1 @@
-"# app-jade" 
+# app-jade
